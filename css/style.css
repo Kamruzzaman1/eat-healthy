@@ -90,6 +90,7 @@ h2 {
     box-shadow: 10px 5px 20px 10px #cecdcc;
     margin-right: 20px;
     margin-left: 20px;
+    margin-bottom: 72px;
     padding: 25px 38px;
     margin-top: 50px;
     border-radius: 20px;
@@ -97,4 +98,37 @@ h2 {
 
 .recipies-text {
     text-align: left;
+}
+
+.follow-media {
+    width: 33.33%;
+    padding: 20px;
+}
+
+.follow-media h1 {
+    margin: 0;
+}
+
+.border-box {
+    box-shadow: 0px 0px 10px 1px #bdbdbc;
+    margin: 20px 20px;
+    border-radius: 25px;
+    padding: 0px 0px 0px 15%;
+}
+
+footer {
+    text-align: center;
+    background-color: #0B0D17;
+    color: #bdbdbc;
+    padding: 40px;
+    margin-top: 60px;
+}
+
+footer h1 span {
+    color: #FB8A47;
+}
+
+footer h1 {
+    margin: 0;
+    font-size: 30px;
 }
