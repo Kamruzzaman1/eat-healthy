@@ -10,7 +10,7 @@ h2 {
     line-height: 130%;
 }
 
-section {
+.flex-box {
     display: flex;
 }
 
@@ -49,6 +49,7 @@ section {
 
 .about-section {
     background-image: url(../images/shapes/Frame\ 57.jpg);
+    margin-bottom: 72px;
 }
 
 .about-section .about-text {
@@ -67,10 +68,33 @@ section {
 }
 
 .recipies-img img {
-    width: 546%;
-    height: 308%;
+    width: 548px;
+    height: 308px;
+    border-radius: 25px;
+}
+
+.recipies {
+    text-align: center;
+}
+
+.recipies h1 {
+    font-size: 36px;
+}
+
+.recipies p {
+    line-height: 25px;
 }
 
 .recipies-box {
     width: 50%;
+    box-shadow: 10px 5px 20px 10px #cecdcc;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 25px 38px;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+.recipies-text {
+    text-align: left;
 }
