@@ -1,0 +1,76 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2em;
+}
+
+h1,
+h2 {
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 130%;
+}
+
+section {
+    display: flex;
+}
+
+.dilicious-img img {
+    width: 100%;
+}
+
+.delicious-text {
+    margin-top: 50px;
+}
+
+.delicious-text p {
+    line-height: 2em;
+}
+
+.food {
+    width: 50%;
+    padding: 40px;
+}
+
+.orange {
+    color: #FB8A47;
+}
+
+.order-buttom {
+    background-color: #FB8A47;
+    padding: 10px 20px;
+    color: white;
+    text-transform: capitalize;
+    font-weight: 600;
+    text-decoration: none;
+    margin-top: 40px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.about-section {
+    background-image: url(../images/shapes/Frame\ 57.jpg);
+}
+
+.about-section .about-text {
+    padding: 20px 100px;
+    margin-top: 20px;
+}
+
+.owner-img img {
+    width: 100%;
+    height: 100%;
+}
+
+.about {
+    width: 50%;
+    padding: 40px 40px 0px 40px;
+}
+
+.recipies-img img {
+    width: 546%;
+    height: 308%;
+}
+
+.recipies-box {
+    width: 50%;
+}
