@@ -28,7 +28,7 @@ h2 {
 
 .food {
     width: 50%;
-    padding: 40px;
+    margin: 40px 20px;
 }
 
 .orange {
@@ -64,7 +64,7 @@ h2 {
 
 .about {
     width: 50%;
-    padding: 40px 40px 0px 40px;
+    margin: 40px 20px 0px 20px;
 }
 
 .recipies-img img {
